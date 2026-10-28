@@ -26,5 +26,5 @@ A beginner-friendly collection of Python programs demonstrating loops, recursion
 - No third-party packages required.
 
 ## Repository checklist
-After uploading to GitHub, add your repository URL here if you want it documented:
-- Repository: `ADD_YOUR_GITHUB_REPOSITORY_URL`
+## Repository
+- GitHub: https://github.com/divyaaaagarg/python-programs-collection
